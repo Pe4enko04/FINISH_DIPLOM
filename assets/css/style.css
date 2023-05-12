@@ -420,7 +420,7 @@ text-decoration: dotted;
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../assets/img/hero-bg.jpg") top right;
+  background: url(background: url("../img/hero-bg.jpg") top right;  )top right;
   background-size: cover;
 }
 
